@@ -1,1 +1,1 @@
-Projet pour le cours d'integration continue
+Projet pour le cours d'integration continue ------ JC mod
