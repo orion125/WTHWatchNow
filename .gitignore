@@ -58,12 +58,13 @@ buildNumber.properties
 !/.mvn/wrapper/maven-wrapper.jar
 
 ### NetBeans ###
-nbproject/private/
+nbproject/
 build/
 nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+nbactions.xml
 
 # End of https://www.gitignore.io/api/linux,netbeans,java,maven,git
 
